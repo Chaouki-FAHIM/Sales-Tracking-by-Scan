@@ -1,1 +1,0 @@
-# Sales-Tracking-by-Scan
